@@ -1,0 +1,24 @@
+
+
+ul{ list-style-type: none;
+  padding: 0;
+  margin:0;
+  overflow:hidden;
+  background-color: #7cf307;
+}
+li{
+  float: left;
+}
+li a{
+  padding: 15px;
+  display: block;
+  text-decoration: none;
+  colour:white;
+  font-family: "Bodoni MT Condensed";
+}
+li a:hover{
+  background-color: black;
+}
+img{
+  border-radius: 50%;
+}
